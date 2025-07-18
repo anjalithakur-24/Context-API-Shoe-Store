@@ -5,7 +5,7 @@ import PaymentPage from './Components/Payment/Payment.jsx';
 import Navbar from './Components/Navbar/Navbar.jsx';
 import ShoeList from './Components/List/List.jsx';
 import Cart from './Components/Cart/Cart.jsx'
-import Cartp from './Components/Cartcopy/Cartcopy.jsx';
+import Cartcopy from './Components/Cartcopy/Cartcopy.jsx';
 import { useState } from 'react';
 
 function App() {
